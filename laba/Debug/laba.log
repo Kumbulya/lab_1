@@ -1,0 +1,4 @@
+﻿  set.cpp
+C:\Users\Ярослав\source\repos\laba\laba\set.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ярослав\source\repos\laba\laba\set.cpp(70): warning C4715: SISMEMBER: значение возвращается не при всех путях выполнения
+  laba.vcxproj -> C:\Users\Ярослав\source\repos\laba\Debug\laba.exe
